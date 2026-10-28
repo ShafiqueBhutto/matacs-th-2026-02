@@ -3,7 +3,7 @@
 - **Full name:** Shafique Bhutto
 - **Reference:** MATACS-TH-2026-02
 - **Role:** Associate Software Developer
-- **Time actually spent:** [X hours] (the brief suggests about 60 minutes; I spent longer because I wanted to check the scoring formulas and test the prototype script)
+- **Time actually spent:** 2 hours (the brief suggests about 60 minutes; I spent longer because I wanted to check the scoring formulas and test the prototype script)
 
 ## Files
 
